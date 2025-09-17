@@ -3,7 +3,7 @@ import axios from 'axios';
 import { auth } from './auth';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api/v1',
+    baseURL: 'https://codecrafting-api.onrender.com/api/v1',
     timeout: 10000
 });
 
