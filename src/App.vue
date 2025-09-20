@@ -3,7 +3,7 @@
 
   <router-view />
 
-  <notifications />
+  <notifications />  
 
 </template>
 
@@ -15,7 +15,7 @@ import { Notifications } from '@kyvg/vue3-notification';
     name: "App",
     components: {
       NavBar,
-      Notifications,
+      Notifications, 
     },
   };
 </script>

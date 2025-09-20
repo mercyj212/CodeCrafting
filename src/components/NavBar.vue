@@ -15,7 +15,7 @@
           </div>
           <div class="hidden sm:block">
             <h1 class="text-xl font-semibold bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text text-transparent">
-              DevBlog
+              Blog4U
             </h1>
             <p class="text-xs text-slate-500 -mt-1">Fresh insights</p>
           </div>
